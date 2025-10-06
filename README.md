@@ -5,7 +5,7 @@
     - [X] Будет база данных 
 - [ ] Диаграммы - должна быть ссылка на drawio, чтобы можно было редактировать
     - [ ] Структура приложения
-          <br><img height="200" alt="Структура приложения" src="https://github.com/user-attachments/assets/6a1c151a-22df-4dba-a549-21b26a5e9583" />
+          <br><img height="200" alt="Структура приложения" src="https://github.com/Vombatullah/diplom/blob/main/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20.drawio" />
     - [ ] Варианты использования Use Case
           <br><img height="300" alt="Use Case" src="https://github.com/user-attachments/assets/82a835c2-cf13-4f37-81e5-607dce887f77" />
 - [ ] База данных ссылка на таблицу и скрипт ИЛИ описание ИИ
