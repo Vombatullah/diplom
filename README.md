@@ -8,8 +8,6 @@
           <br><img height="200" alt="Структура приложения" src="https://github.com/user-attachments/assets/6a1c151a-22df-4dba-a549-21b26a5e9583" />
     - [ ] Варианты использования Use Case
           <br><img height="300" alt="Use Case" src="https://github.com/user-attachments/assets/82a835c2-cf13-4f37-81e5-607dce887f77" />
-    - [ ] Деятельности Activity
-          <br><img height="400" alt="Activity" src="https://github.com/user-attachments/assets/1c0a4a1c-d43b-4442-a2be-1df603110b9e" />
 - [ ] База данных ссылка на таблицу и скрипт ИЛИ описание ИИ
     - [ ] Лист гугл таблицы на котором все данные
     - [ ] Скрин ER диаграммы на этом же листе
